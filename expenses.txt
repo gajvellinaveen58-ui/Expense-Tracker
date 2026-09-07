@@ -1,0 +1,5 @@
+250.0|food|3
+250.0|food|3
+100.0|food|lunch
+300.0|lunch|nothing|2026-09-07
+2400.0|shoping|shoping for me|2026-09-07
